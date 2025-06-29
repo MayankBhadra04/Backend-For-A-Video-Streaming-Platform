@@ -66,7 +66,7 @@ CLOUDINARY_API_SECRET = [Your Cloudinary API Secret]
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/youtube-twitter.git
+    git clone https://github.com/your-username/Media-Streaming-Platform.git
     ```
 2. Install dependencies:
     ```bash
