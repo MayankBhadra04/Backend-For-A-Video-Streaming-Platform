@@ -83,4 +83,4 @@ Feel free to contribute to this project! 🚀
 
 ## Acknowledgments
 
-This project was inspired by the functionalities of YouTube and Twitter. Special thanks to the open-source community for their valuable contributions.
+This project was inspired by the functionalities of YouTube and Twitter.
